@@ -1,4 +1,4 @@
-## Endemic Animal Species of Sri Lanka
+### Endemic Animal Species of Sri Lanka
 
 
 
@@ -7,11 +7,10 @@
 
 
 # Sri Lanka is considered a biodiversity hotspot, meaning it has a high number of endemic species. For example, several bird species such as the 
-
 Sri Lanka Jungle Fowl
-![picture](https://github.com/Dewmina892/MyfirstGitRepo/blob/main/Images/Jungle%20Fowl.jpg?raw=true)
-
 and the Sri Lanka Blue Magpie 
+![picture](https://raw.githubusercontent.com/Dewmina892/MyfirstGitRepo/d06e3e3e14eeb0cce9f0d103e71929ce7e669080/Images/Blue_Magpie.jpg)
+
 
 are found only in this country. Among mammals, species like the Purple-faced Langur and the Sri Lanka Leopard are unique to the island. In addition, Sri Lanka is home to many endemic amphibians, reptiles, and freshwater fish that are specially adapted to its rainforests, wetlands, and mountainous regions.
 
